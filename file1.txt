@@ -1,3 +1,11 @@
 Thailand 4.0
 total 4
 -rw-rw-r--. 1 admin admin 13 Sep 20 10:29 file1.txt
+total 4
+-rw-rw-r--. 1 admin admin 73 Sep 20 11:11 file1.txt
+total 4
+-rw-rw-r--. 1 admin admin 133 Sep 20 11:14 file1.txt
+total 4
+-rw-rw-r--. 1 admin admin 194 Sep 20 11:14 file1.txt
+total 4
+-rw-rw-r--. 1 admin admin 255 Sep 20 11:14 file1.txt
